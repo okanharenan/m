@@ -1,3 +1,4 @@
+import pytest
 def decorator_imprimir(func):
    
     def imprimindo(capital,taxa,tempo):
